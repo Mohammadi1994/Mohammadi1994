@@ -1,5 +1,5 @@
-<h1 align="left">👋 Hello there, This is Maryam Mohammadi, and I'm glad to see you here! 😍</h1>
-<h3 align="left">🎓 I hold a Ph.D. in Applied Mathematics, with a focus on Numerical Analysis and Scientific computing.</h3>
+<p align="left">👋 Hello there, This is Maryam Mohammadi, and I'm glad to see you here! 😍</h1>
+<p align="left">🎓 I hold a Ph.D. in Applied Mathematics, with a focus on Numerical Analysis and Scientific computing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadi1994&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadi1994" /> </p>
 
