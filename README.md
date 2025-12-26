@@ -1,7 +1,7 @@
 - <p align="left">👋 Hello there, This is Maryam Mohammadi, and I'm glad to see you here! 😍</h1>
 - <p align="left">🎓 I hold a Ph.D. in Applied Mathematics, with a focus on Numerical Analysis and Scientific computing.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadi1994&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadi1994" /> </p>
-- 👀 I am deeply interested in **solving Partial Differential Equations (PDEs) and Fractional PDEs, and in investigating how Machine Learning and Deep Learning can be leveraged to address challenging scientific problems.**
+- 👀 I am deeply interested in solving Partial Differential Equations (PDEs) and Fractional PDEs, and in investigating how Machine Learning and Deep Learning can be    leveraged to address challenging scientific problems.
 
 - 🌱 I’m currently working on **developing and analyzing machine-learning–based methods for PDEs and Fractional PDEs.**
 
