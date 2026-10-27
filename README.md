@@ -19,7 +19,7 @@ I'm a PhD graduate in Applied Mathematics specializing in Numerical Analysis and
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/maryam-mohammadi-742413221/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
   &nbsp;
