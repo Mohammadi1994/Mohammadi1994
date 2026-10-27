@@ -16,6 +16,18 @@ I'm a PhD graduate in Applied Mathematics specializing in Numerical Analysis and
   
 📫 Feel free to reach out to me at [Maryam Mohammadi](maryam.mohammadi.math@gmail.com)
 
+### 📫 Connect with me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" height="40" width="40"/>
+  </a>
+</p>
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
